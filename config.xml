@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/CoinTracker" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="6er71ekVgN.CoinTracker" package="6er71ekVgN" required_version="4.0"/>
+    <author href="http://tonydroberts.com/" email="anthonydroberts@cmail.carleton.ca">Tony Roberts</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <name>CoinTracker</name>
+    <tizen:profile name="wearable"/>
+</widget>

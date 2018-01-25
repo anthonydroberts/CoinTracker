@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px auto;
+    background-color:#1d2026;
+}
+
+.mainHeader{
+font-size:1.5em;
+text-align: center;
+margin-bottom: 1.5em;
+color: #ea9b25;
+}
+
+.mainContents {
+	display: flex;
+	display: -webkit-flex;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+}
+
+.currentPrice {
+	font-size:3em;
+	color:#fff;
+}
+
+.percentageChange {
+	border: solid 2px #35d638;
+	background-color: #35d638;
+	border-radius: 10px;
+	font-size:1em;
+	color: white;
+}
+
+.percentageChangeText {
+	font-size:1em;
+	color: #999da3;
+}
+
+.bottomContents {
+margin-top:2em;
+text-align: center;
+line-height:2em;
+}
